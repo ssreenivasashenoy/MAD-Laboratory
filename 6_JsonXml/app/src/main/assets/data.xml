@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<records>
+    <places>
+        <name>Mumbai</name>
+        <lat>12.123</lat>
+        <long>70.569</long>
+        <temp>22</temp>
+        <humidity>90%</humidity>
+    </places>
+</records>
